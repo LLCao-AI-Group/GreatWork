@@ -42,4 +42,6 @@
 
 ## 2. 获取更多反馈
 
-proposal 准备好之后，把它提交给 **`GreatWorkEvaluation.skill`**，由它打分并给出具体的反馈。
+proposal 准备好之后，把它交给 [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) 这个 skill，由它打分并给出具体的反馈。
+
+在 Claude Code 里安装：把 `skills/great-work-evaluation` 文件夹拷贝到 `~/.claude/skills/` 下。
