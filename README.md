@@ -1,7 +1,6 @@
 # Looking for Great Work
 
-[English](README.md) | 中文
-
+English | [中文](README_zh.md)
 
 The number of papers in our field is exploding. Most of them will not be read a year from now, and adding one more does not change much.
 
