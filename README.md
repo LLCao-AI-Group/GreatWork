@@ -1,7 +1,6 @@
 # Looking for Great Work
 
-[English](README.md) | 中文
-
+English | [中文](README_zh.md)
 
 The number of papers in our field is exploding. Most of them will not be read a year from now, and adding one more does not change much.
 
@@ -43,4 +42,6 @@ The three questions form a hierarchy: each one only matters if the one before it
 
 ## 2. Get more feedback on the proposal
 
-When your proposal is ready, submit it to **`GreatWorkEvaluation.skill`** to have it scored and to get specific feedback.
+When your proposal is ready, give it to the [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) skill to have it scored and to get specific feedback.
+
+To install the skill in Claude Code, copy the folder `skills/great-work-evaluation` into `~/.claude/skills/`.
