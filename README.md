@@ -26,6 +26,8 @@ Answer each one in 1–2 sentences. You may summarise, point to a section of you
 
 If this works completely, what will be different? There are two ways to pass: a real application that changes how people do something, or a real change in what the research community understands. A few points on a benchmark is neither. Think about the whole world, including existing work and other teams on the same problem: will your result be one more paper, or something others cannot go around?
 
+Before you answer, ask whether Claude Code or Codex could do this in a day if you simply asked. If so, that is your baseline, not your project.
+
 The first version can be small. The question is about where the project points, not how far it has gone.
 
 **2. Curiosity**

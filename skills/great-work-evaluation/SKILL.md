@@ -51,11 +51,12 @@ Keep the author's name, institution and other personal details out of search que
 
 ### 3. Find the strongest simple baseline
 
-Ask: in this proposal's own setting, is there an answer that needs no new method at all? If so, the proposed method has to beat it before it means anything. Three concrete checks:
+Ask: in this proposal's own setting, is there an answer that needs no new method at all? If so, the proposed method has to beat it before it means anything. Four concrete checks:
 
 - Does the information the method already uses (labels, for example) make the target quantity directly computable?
 - Do the success examples actually show what the proposal says they show? A proposal may claim to find hard cases while its showcase example is an easy one.
 - Does the randomness in an experiment come from a distribution that is already known? If so, the result can be computed exactly and the sampling only adds noise.
+- Could a coding agent such as Claude Code or Codex do this if simply asked? Describe what it would try and how far it would likely get. If the answer is "most of it, in a day", that is the baseline, and the proposal has to say what remains hard after it. Judge this from the proposal; do not run the attempt yourself. Recommend that the author run it first and report the result.
 
 If the proposal contains numbers, recompute the key ones. If it has no experimental numbers of its own, check three things instead: whether quoted numbers are accurate; whether its own estimates (cost, latency, time) are internally consistent; and whether the planned evaluation set is large enough to separate the expected gain from noise.
 
