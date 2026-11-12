@@ -12,7 +12,7 @@ The essay is not only about research. It applies equally to building products an
 
 ## 1. Primary questions
 
-Write the following as a short note of its own. It is submitted separately from your proposal, so the proposal itself can stay as it is: a proposal, a report or a paper draft are all fine.
+Answer the following questions.
 
 ### Your project, in one paragraph
 
@@ -46,6 +46,6 @@ Why do you have a real chance of success? Certainty is not required, but there m
 
 ## 2. Get more feedback on the proposal
 
-When your document is ready, give it to the [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) skill to have it scored and to get specific feedback. If you also give it your answers to the three questions, it will check them against what it finds.
+You can provide a proposal (a report or a paper draft also works) and give it to the [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) skill to have it scored and to get specific feedback. If you also give it your answers to the three questions, it will check them against what it finds.
 
 To install the skill in Claude Code, copy the folder `skills/great-work-evaluation` into `~/.claude/skills/`.

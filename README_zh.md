@@ -12,7 +12,7 @@
 
 ## 1. 首要问题
 
-请把下面的内容单独写成一份简短的说明，和 proposal 分开提交。这样 proposal 本身可以保持原样：一份 proposal、一份报告或一篇论文草稿都可以。
+回答下面的几个问题。
 
 ### 用一段话介绍你的项目
 
@@ -46,6 +46,6 @@
 
 ## 2. 获取更多反馈
 
-文档准备好之后，把它交给 [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) 这个 skill，由它打分并给出具体的反馈。如果同时把三个问题的回答交给它，它会对照查到的事实核对这些回答。
+你可以提供一份 proposal（一份报告或一篇论文草稿也可以），把它交给 [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) 这个 skill，由它打分并给出具体的反馈。如果同时把三个问题的回答交给它，它会对照查到的事实核对这些回答。
 
 在 Claude Code 里安装：把 `skills/great-work-evaluation` 文件夹拷贝到 `~/.claude/skills/` 下。
