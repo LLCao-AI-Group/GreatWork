@@ -20,6 +20,12 @@
 
 ### 三个问题
 
+这三个问题来自 Paul Graham 自己列出的条件：
+
+> "The work you choose needs to have three qualities: it has to be something you have a natural aptitude for, that you have a deep interest in, and that offers scope to do great work."
+
+他还说这些因素是相乘的关系："The factors in doing great work are factors in the literal, mathematical sense, and they are: ability, interest, effort, and luck." 其中一项为零，乘积就是零。
+
 每个问题用 1–2 句话回答。可以自己总结，可以指向 proposal 里的某一节，也可以直接引用原文。"我还不知道"是可以接受的回答，它比一句漂亮但空洞的话有用得多。
 
 **1. Scope 与雄心**
@@ -37,10 +43,6 @@
 **3. 为什么是你**
 
 为什么你有真实的成功机会？不要求有把握，但要有值得下注的理由。你有什么别人没有的东西：数据、工具、来自另一个领域的知识、一个别人没有注意到的观察，还是一个已经跑通的初步结果？这个项目需要哪些资源，你现在手头有什么？
-
-### 三个问题之间的关系
-
-这三个问题是层级关系：后一个问题只有在前一个成立时才有意义，所以任何一层明显不过，项目就停在那一层。一个项目要值得做，三项里至少要有一项确实突出。
 
 ## 2. 获取更多反馈
 
