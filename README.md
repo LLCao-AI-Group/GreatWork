@@ -20,6 +20,12 @@ Explain what you want to do in plain words. Leave out acronyms and fashionable t
 
 ### Three questions
 
+The three questions follow Paul Graham's own list:
+
+> "The work you choose needs to have three qualities: it has to be something you have a natural aptitude for, that you have a deep interest in, and that offers scope to do great work."
+
+He also says these multiply: "The factors in doing great work are factors in the literal, mathematical sense, and they are: ability, interest, effort, and luck." If one factor is zero, so is the product.
+
 Answer each one in 1–2 sentences. You may summarise, point to a section of your proposal, or quote from it. "I don't know yet" is an acceptable answer and is more useful than a polished sentence that says nothing.
 
 **1. Scope and ambition**
@@ -37,10 +43,6 @@ What do you most want to know about this problem? We are asking for the thing yo
 **3. Why you**
 
 Why do you have a real chance of success? Certainty is not required, but there must be a reason to make the bet. What do you have that others do not: data, a tool, knowledge from another field, an observation nobody else has made, a first result that already works? What resources does the project need, and what do you have now?
-
-### How the three questions relate
-
-The three questions form a hierarchy: each one only matters if the one before it holds, so a clear failure at any level stops the project there. To be worth pursuing, a project must stand out on at least one of the three.
 
 ## 2. Get more feedback on the proposal
 
