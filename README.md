@@ -10,7 +10,7 @@ Prof. Cao's team is looking for great work, not for more papers. We use Paul Gra
 
 The essay is not only about research. It applies equally to building products and start-ups. His working definition: great work means doing something important so well that you expand people's ideas of what is possible. We hope it will help you find important and meaningful projects for your time and career.
 
-## 1. What to write
+## 1. Primary questions
 
 Put the following at the top of your proposal.
 
