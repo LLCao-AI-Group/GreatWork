@@ -12,7 +12,7 @@ The essay is not only about research. It applies equally to building products an
 
 ## 1. Primary questions
 
-Put the following at the top of your proposal.
+Answer the following questions.
 
 ### Your project, in one paragraph
 
@@ -26,7 +26,7 @@ The three questions follow Paul Graham's own list:
 
 He also says these multiply: "The factors in doing great work are factors in the literal, mathematical sense, and they are: ability, interest, effort, and luck." If one factor is zero, so is the product.
 
-Answer each one in 1–2 sentences. You may summarise, point to a section of your proposal, or quote from it. "I don't know yet" is an acceptable answer and is more useful than a polished sentence that says nothing.
+Answer each one in 1–2 sentences. You may summarise, point to a section of your document, or quote from it. "I don't know yet" is an acceptable answer and is more useful than a polished sentence that says nothing.
 
 **1. Scope and ambition**
 
@@ -46,6 +46,6 @@ Why do you have a real chance of success? Certainty is not required, but there m
 
 ## 2. Get more feedback on the proposal
 
-When your proposal is ready, give it to the [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) skill to have it scored and to get specific feedback.
+You can provide a proposal (a report or a paper draft also works) and give it to the [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) skill to have it scored and to get specific feedback. If you also give it your answers to the three questions, it will check them against what it finds.
 
 To install the skill in Claude Code, copy the folder `skills/great-work-evaluation` into `~/.claude/skills/`.

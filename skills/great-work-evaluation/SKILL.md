@@ -1,6 +1,6 @@
 ---
 name: great-work-evaluation
-description: Evaluate a research, product or start-up proposal (or an early experiment report) against Paul Graham's "How to Do Great Work" standard. Scores five dimensions on a -1 / 0 / +1 scale (true and new, honesty and rigor, generality, quality of the question, first step and value of failure), searches for the closest existing work, checks the strongest simple baseline, and fact-checks the author's own answers on scope, curiosity and "why you". Use this skill whenever someone asks to review, score, critique or get feedback on a proposal, project idea, paper plan, grant draft or early report, asks whether an idea is novel or worth pursuing, or mentions "great work", even if they do not name the skill.
+description: Evaluate a research, product or start-up proposal, experiment report or paper draft against Paul Graham's "How to Do Great Work" standard. Scores five dimensions on a -1 / 0 / +1 scale (true and new, honesty and rigor, generality, quality of the question, first step and value of failure), searches for the closest existing work, checks the strongest simple baseline, and fact-checks the author's own answers on scope, curiosity and "why you" when they are submitted alongside. Use this skill whenever someone asks to review, score, critique or get feedback on a proposal, project idea, paper plan, grant draft or early report, asks whether an idea is novel or worth pursuing, or mentions "great work", even if they do not name the skill.
 ---
 
 # Great Work Evaluation
@@ -11,7 +11,7 @@ Give an author specific, honest feedback on a proposal, measured against Paul Gr
 
 A proposal is judged on eight dimensions in two groups.
 
-- **The author's three questions belong to the author and their advisor.** They are scope and ambition, curiosity, and "why you". These ask whether the direction and the person are worth a bet. A document rarely shows them, so the author answers each in one or two sentences at the top of the proposal. The three form a hierarchy: each only matters if the one before it holds, a clear failure at any level stops the project, and at least one must stand out. That decision is made by the author together with their advisor. Do not score these three and do not give an overall go / no-go verdict.
+- **The author's three questions belong to the author and their advisor.** They are scope and ambition, curiosity, and "why you". These ask whether the direction and the person are worth a bet. A document rarely shows them, so the author answers each in one or two sentences in a short note, submitted separately from the document. The three form a hierarchy: each only matters if the one before it holds, a clear failure at any level stops the project, and at least one must stand out. That decision is made by the author together with their advisor. Do not score these three and do not give an overall go / no-go verdict.
 - **The five feedback dimensions are yours.** They are: true and new; honesty and rigor; generality; the question; first step and the value of failure. Score each one and give feedback the author can act on.
 
 You also **fact-check the author's three answers**. You read the whole document and search the literature, so you can see things the author cannot, such as a paper published last month that already does the same thing. Report what you find and leave the judgment to people.
@@ -20,8 +20,8 @@ The reader is the author, and often their advisor. Write for someone who wants t
 
 ## Inputs
 
-- **The proposal.** A file path, pasted text, or a link. Read all of it, including tables, setup sections and appendices. Flaws tend to sit in the setup.
-- **The author's top section**, if present: one paragraph on the project, then answers on scope and ambition, curiosity, and why you. If it is missing, say so, skip the fact-check, and suggest the author add it.
+- **The document to evaluate.** It may be a proposal, an experiment report or a paper draft, and it stands on its own. It can arrive as a file path, pasted text or a link. Read all of it, including tables, setup sections and appendices. Flaws tend to sit in the setup. This skill calls it "the proposal" whatever its form.
+- **The author's answers to the three questions**, if provided: one paragraph on the project, then answers on scope and ambition, curiosity, and why you. They are usually submitted separately, as a second file or as text in the request, and may also sit at the top of the document. They are optional. If they are not provided, evaluate the document as usual, skip the fact-check, and mention that the author can submit them.
 - **Reference material**, if the user supplies any. Treat it as a point of comparison for you, not as a list the proposal should have cited.
 
 ## Before scoring: three preparation steps
@@ -154,7 +154,7 @@ Write in the language the user is writing in. Be brief and lead with findings. T
 4. **What must be fixed** — one entry per problem, labelled with the name of its dimension; a dimension scored −1 may have several. Mark each as *fixable* (an experimental flaw, thin evidence, a missing baseline, no closed loop) or *not fixable without changing the idea* (the core idea is already covered, the problem is too small), and say concretely what to do. For recomputed numbers, say here only whether they matched and name any that did not or could not be recomputed; the detail goes in the appendix.
 5. **What is done well** — one entry per +1. If there is none, say so.
 6. **The thread most worth keeping** — the part of the proposal most likely to grow into something new, if any. If the core idea does not hold, this is where to describe the way out.
-7. **Fact-check of the three answers** — supported / contradicted / cannot tell, with evidence. If the proposal has no top section with the three answers, keep this heading, say the section is missing, and ask the author to add it.
+7. **Fact-check of the three answers** — supported / contradicted / cannot tell, with evidence. If the author's answers were not provided, keep this heading, say so, and note that they can be submitted separately.
 8. **The one next step** — the single most important thing to do, small enough to start this week.
 9. **Appendix** — the three citation lists, the recomputation detail, and other verification notes.
 
