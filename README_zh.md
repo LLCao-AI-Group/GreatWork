@@ -48,4 +48,10 @@
 
 你可以提供一份 proposal（一份报告或一篇论文草稿也可以），把它交给 [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) 这个 skill，由它打分并给出具体的反馈。如果同时把三个问题的回答交给它，它会对照查到的事实核对这些回答。
 
-在 Claude Code 里安装：把 `skills/great-work-evaluation` 文件夹拷贝到 `~/.claude/skills/` 下。
+### 安装 skill
+
+把 `skills/great-work-evaluation` 文件夹拷贝到你的 agent 读取 skill 的位置：
+
+- **Claude Code**：`~/.claude/skills/`
+- **Codex**：`~/.agents/skills/`
+- **其他 agent**：如果它支持 [Agent Skills](https://agentskills.io)，把文件夹拷贝到它的 skills 目录（具体位置见它的文档）。如果不支持，就不需要安装：这个 skill 只是一个 Markdown 文件，直接让 agent 按照 `skills/great-work-evaluation/SKILL.md` 来评审你的文档即可。

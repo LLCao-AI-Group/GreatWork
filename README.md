@@ -48,4 +48,10 @@ Why do you have a real chance of success? Certainty is not required, but there m
 
 You can provide a proposal (a report or a paper draft also works) and give it to the [`great-work-evaluation`](skills/great-work-evaluation/SKILL.md) skill to have it scored and to get specific feedback. If you also give it your answers to the three questions, it will check them against what it finds.
 
-To install the skill in Claude Code, copy the folder `skills/great-work-evaluation` into `~/.claude/skills/`.
+### Install the skill
+
+Copy the folder `skills/great-work-evaluation` to the place your agent reads skills from:
+
+- **Claude Code** — `~/.claude/skills/`
+- **Codex** — `~/.agents/skills/`
+- **Other agents** — if your agent supports [Agent Skills](https://agentskills.io), copy the folder into its skills directory (see its documentation). If it does not, no installation is needed: the skill is a plain Markdown file, so ask the agent to follow `skills/great-work-evaluation/SKILL.md` when it evaluates your document.
